@@ -1,1 +1,1 @@
-![OutcastsOUTCLogo](https://cdn.jsdelivr.net/gh/OutcastsNFT/outcastsTokenLogo/OutcastsOUTCLogo.png)
+![OutcastsOUTCLogo](https://cdn.jsdelivr.net/gh/OutcastsNFT/outcastsTokenLogo@latest/OutcastsOUTCLogo.png)
