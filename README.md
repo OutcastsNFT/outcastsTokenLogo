@@ -1,1 +1,1 @@
-![OutcastsOUTCLogo](https://cdn.jsdelivr.net/gh/OutcastsNFT/outcastsTokenLogo@latest/OutcastsOUTCLogo.png)
+![OutcastsOUTCLogo](https://cdn.jsdelivr.net/gh/OutcastsNFT/outcastsTokenLogo@latest/Sollix_SLIX_Logo.png)
